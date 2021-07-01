@@ -1,0 +1,6 @@
+https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Index.ipynb
+
+(lst-dev_l) > python ipython-get-history.py 262 record.ipy
+(lst-dev_l) > less record.ipy 
+(lst-dev_l) > ipython record.ipy 
+35
